@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshkasani12/NodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maheshkasani12/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Maheshkasani12/NodeJs#readme"
 }
